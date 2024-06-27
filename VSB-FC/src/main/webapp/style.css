@@ -1,0 +1,55 @@
+@charset "UTF-8";
+	 
+
+      body{
+      background-image:url(Matchdetails.jpg);
+      background-repeat:no-repeat;
+      background-size:1400px 800px;
+      
+   }
+   
+   .k
+   {
+    color:black;
+         background-color: rgba(255, 255, 255, 0.4);
+         width: 20%;
+         margin:100px auto 25px;
+         padding: 50px 30px 40px; 
+         box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+         text-align: center;
+         border-radius: 10px;  
+         a:link{
+         font-family: 'Poppins', sans-serif;
+ 		 background-color:powder #800000;
+ 		 color:green;
+ 		 padding:5px 5px;
+ 		 text-decoration:none;
+ 		 display:inline-block; 
+ 		}     
+   }
+     .t table {
+    width: 50%;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-collapse: collapse;
+    margin-top: 20px;
+    border-radius:40px;
+    
+}
+ .t table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+.t th {
+background-color: #f2f2f2;
+}
+.t input {
+ border: 1.5px solid black;
+ padding: 10px;
+ margin-bottom: 10px;
+ width: calc(100% - 22px);
+ box-sizing: border-box; 
+ }
+  
+  
+   
