@@ -57,6 +57,6 @@ This is a web application project for VSB Football Club, designed to manage matc
   - Audience Ticket Booking: `http://localhost:8080/VSBFootballClub/TicketBooking`
   - View Upcoming Matches: `http://localhost:8080/VSBFootballClub/UpcomingDetails`
 
-## Contributors
+## Contributor
 
 - [Karthikeyan](https://github.com/KarthikeyanM14)
